@@ -1,0 +1,16 @@
+pyspark==3.3.0
+
+mysql-connector-python==2.2.9
+
+pandas==2.0.3
+
+dotenv==1.0.1
+
+findspark==2.0.1
+
+openai==2.2.0
+# Các thư viện dưới đây là built-in của Python, không cần cài qua pip:
+# os
+# threading
+# concurrent.futures
+# dotenv
