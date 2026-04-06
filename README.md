@@ -1,6 +1,6 @@
-# Final Project Folder - Hướng dẫn cài đặt & sử dụng
+# TV Usage Data Engineering Project
 
-Folder này sẽ giúp chúng ta: 
+Project này hoạt động theo các bước sau: 
 1) Xử lý & tổng hợp data ở 2 folder log_content & log_search
 2) Bắn các bảng data tổng hợp lên DB
 3) Kết nối viz tool với data trong DB để vẽ report, dashboard
@@ -35,9 +35,7 @@ pip install -r requirements.txt
 
 ## 2. Tạo database MySQL
 
-Tôi chọn AWS vì họ cho phép người dùng Free Tier tạo DB, với các bước tương đối đơn giản.
-
-Về cách tạo acc AWS Free Tier thì có đầy trên Youtube, tự túc đi bạn.
+Ở project này chúng ta dùng AWS, bạn có thể thử các cloud platform khác nếu muốn.
 
 - Login vào AWS. Search & click vào Service **Aurora and RDS**. Vào tab **Database** & ấn **Create database**.
 - *Choose a database creation method*: chọn **Standard create**
