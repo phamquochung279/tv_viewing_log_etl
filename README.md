@@ -1,4 +1,4 @@
-# TV Viewing Log - Data Engineering Project
+# TV Viewing Logs - Data Engineering Project
 
 Bài tập cuối khóa của lớp DE anh Trần Hoàng Long. Project này hoạt động theo các bước sau: 
 1) Xử lý & tổng hợp data ở 2 folder `log_content` & `log_search` *(2 folder này không tiện show public, vui lòng liên hệ tôi để lấy)*
