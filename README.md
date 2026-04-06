@@ -1,6 +1,6 @@
 # TV Usage Data Engineering Project
 
-Project này hoạt động theo các bước sau: 
+Bài tập cuối khóa của lớp DE anh Trần Hoàng Long. Project này hoạt động theo các bước sau: 
 1) Xử lý & tổng hợp data ở 2 folder log_content & log_search
 2) Bắn các bảng data tổng hợp lên DB
 3) Kết nối viz tool với data trong DB để vẽ report, dashboard
