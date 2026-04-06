@@ -1,5 +1,9 @@
 # Final Project Folder - Hướng dẫn cài đặt & sử dụng
 
+<a href="TV Viewing Logs.png" target="_blank">
+  <img src="TV Viewing Logs.png" alt="TV Viewing Logs Project Architecture" title="TV Viewing Logs Project Architecture" width="100%">
+</a>
+
 Folder này sẽ giúp chúng ta: 
 1) Xử lý & tổng hợp data ở 2 folder log_content & log_search
 2) Bắn các bảng data tổng hợp lên DB
